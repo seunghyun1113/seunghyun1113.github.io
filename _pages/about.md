@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 author_profile: true
 sidebar:
-    nav: "docs"
+    nav: "counts"
 
 ---
 
