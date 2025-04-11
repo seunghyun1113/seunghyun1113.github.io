@@ -18,13 +18,3 @@ counts:
     use: true
   - title: "Tag"
     use: false
-
-docs:
-  - title: "MENU"
-    children:
-      - title: "Home"
-        url: /
-      - title: "About"
-        url: /about/
-      - title: "Posts"
-        url: /categories/
