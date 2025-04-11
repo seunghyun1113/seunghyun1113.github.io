@@ -18,3 +18,11 @@ counts:
     use: true
   - title: "Tag"
     use: false
+
+side-contents:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /categories/
