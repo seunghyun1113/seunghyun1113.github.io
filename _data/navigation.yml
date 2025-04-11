@@ -20,9 +20,11 @@ counts:
     use: false
 
 docs:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Posts"
-    url: /categories/
+  - title: "MENU"
+    children:
+      - title: "Home"
+        url: /
+      - title: "About"
+        url: /about/
+      - title: "Posts"
+        url: /categories/
