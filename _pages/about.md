@@ -38,12 +38,12 @@ sidebar_main: true
 
 #### Paper
 
-***Submitted***
+*<u>Submitted</u>*
 
 - Predicting potential social issues by learning a context entity network
 - Mitigating uncertainty in machine learning-based technology valuation: A calibration approach
 
-***International***
+*<u>International</u>*
 
 - **Lee, S.**, Lee, J., Lee, J. M., Chun, H. W., & Yoon, J†. (2025). Linking social media data and patents via Wikipedia for social problem-solving R&D. Computers & Industrial Engineering, 111039. ([Link](https://www.sciencedirect.com/science/article/pii/S0360835225001858))
 - Hong, J., Seol, Y., **Lee, S.**, Yoon, J.†, Lee, J., Park, K. S., & Ha, J. W. (2024). Prediction of Cognitive Impairment Using Sleep Lifelog Data and LSTM Model. Mathematics, 12(20), 3208. ([Link](https://www.mdpi.com/2227-7390/12/20/3208))
@@ -54,7 +54,7 @@ sidebar_main: true
 - **Lee, S.**, Lee, J., Lee, J. M., Chun, H. W., & Yoon, J†. (2023). A Network Analysis Approach to Detecting Social Issues with Web-Based Data. Applied Sciences, 13(14), 8516. ([Link](https://www.mdpi.com/2076-3417/13/14/8516))
 - **Lee, S.**, Lee, S., Lee, K., Lee, S., Chung, J., Kim, C. W., & Yoon, J†. (2021). Data-driven health condition and RUL prognosis for liquid filtration systems. Journal of Mechanical Science and Technology, 35, 1597-1607. ([Link](https://link.springer.com/article/10.1007/s12206-021-0323-8))
 
-***Domestic***
+*<u>Domestic</u>*
 
 - 김민규, 설영진, **이승현**, & 윤장혁†. (2025) 특허의 Problem-Solution 분석을 활용한 반도체 기술 동향분석 (Problem-Solution based Patent Analysis for Identifying Semiconductor Technology Trends), 지식재산연구, 20(1), 145-175. ([Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003184635))
 - **이승현**, 이지호, 박서인, 이재민, 전홍우, & 윤장혁†. (2024). 특허의 Problem-Solution 정보를 활용한 대규모 언어모델 기반 R&D 솔루션 분석 방법 (Large Language Model-based R&D Solution Analysis Approach Using Problem-Solution Information of Patents). 지식재산연구, 19(3), 155-180. ([Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003118399))
