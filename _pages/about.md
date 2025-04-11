@@ -9,7 +9,7 @@ sidebar_main: true
 
 
 
-<img src="../images/about/bio-photo-1744384444624-2.jpg" alt="bio-photo" style="zoom: 67%;" />
+<img src="../images/about/bio-photo-1744384444624-2.jpg" alt="bio-photo" style="zoom: 67%;" class="align-center" />
 
 ### Seunghyun Lee
 
