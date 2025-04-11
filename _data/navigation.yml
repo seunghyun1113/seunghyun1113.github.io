@@ -18,12 +18,3 @@ counts:
     use: true
   - title: "Tag"
     use: false
-
-# sidebar for about page
-sidebar-about:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Posts"
-    url: /categories/
