@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Seunghyun Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data analyst interested in business intelligence"
   location         : "South Korea"
   email            :
