@@ -91,7 +91,7 @@ sidebar_main: true
 - **2022.06~2025.02**, 다중계층데이터의 지능적 분석 및 결합을 통한 비즈니스 기회발굴을 위한 통합 자동화 모델 개발 (Development of an integrated model for business opportunity discovery through intelligent analysis and combination of multi-layer data), 한국연구재단, Researcher
 - **2022.04~2024.12**, 합금철 전기로 사업장의 NOx/미세먼지 동시저감 및 스마트 운전 기술 개발 (Simultaneous removal of NOx/fine dust and smart operation of electric furnace in ferroalloy plant), 한국환경산업기술원, Researcher
 - **2022.04~2022.10**, 시장 기반의 기술 혁신 아이템 산출 방안 연구, 주식회사 광개토연구소, Researcher
-- **2022.01~2022.5**, 사회이슈와 R&D Solution 연계 프로세스 개발 (Social issue and R&D solution linking process development), 한국과학기술정보연구원, Researcher
+- **2022.01~2022.05**, 사회이슈와 R&D Solution 연계 프로세스 개발 (Social issue and R&D solution linking process development), 한국과학기술정보연구원, Researcher
 - **2021.03~2024.02**, 이종 데이터의 지능적 연결 및 기술 솔루션 생성모형을 통한 소셜 이슈 대응 비즈니스 발굴 체계 (Social issue-corresponding business discovery framework based on intelligent linkage of heterogeneous data sources and technical solution generation models), 한국연구재단, Researcher
 - **2021.01~2023.12**, 중개연구 기술seed 발굴 시스템 활용 및 확산모델 개발 (Utilization and diffusion model for system finding the technology seed with translation research), 과학기술일자리진흥원, Researcher
 - **2021.07~2021.11**, 기술키워드를 활용한 국가과학기술표준분류 신설분류명의 정부R&D규모 측정 방안 설계, 한국과학기술기획평가원, Researcher
