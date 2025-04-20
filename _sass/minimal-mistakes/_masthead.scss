@@ -3,13 +3,27 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  position: sticky; // 이 부분 수정 default : relative
+  top: 0px; // 이 부분 추가
+  background-color: rgb(255,255,255); // 이 부분 추가
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+
+  // .masthead {
+  //   position: sticky; // 이 부분 수정 default : relative
+  //   top: 0px; // 이 부분 추가
+  //   background-color: rgb(255,255,255); // 이 부분 추가
+  //   border-bottom: 1px solid $border-color;
+  //   -webkit-animation: $intro-transition;
+  //   animation: $intro-transition;
+  //   -webkit-animation-delay: 0.15s;
+  //   animation-delay: 0.15s;
+  //   z-index: 20;
+
 
   &__inner-wrap {
     @include clearfix;
