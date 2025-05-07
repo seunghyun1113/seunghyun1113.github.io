@@ -84,6 +84,7 @@ sidebar_main: true
 
 #### Project
 
+- **2025.04~2027.03**, AI 트랜스포메이션 기반 의사소통장애 중재 플랫폼 개발 (Development of a non-face-to-face platform for life-cycle communication disorder rehabilitation), 중소기업기술정보진흥원, Researcher
 - **2024.05~2024.12**, 생애 전주기 비대면 의사소통장애 재활 플랫폼 개발 (Development of a non-face-to-face platform for life-cycle communication disorder rehabilitation), 중소기업기술정보진흥원, Researcher
 - **2024.04~2024.10**, 사회이슈 분석을 통한 소셜트윈 기반 잠재이슈 예측모형 연구 (Development of social twin based potential issue prediction model  through social issuue analysis), 한국과학기술정보연구원, Researcher
 - **2023.04~2024.09**, 사회문제 해결방안 패턴 추출모형 연구 (Development of a solution pattern extraction model for social problems), 한국과학기술정보연구원, Researcher
