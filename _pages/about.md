@@ -40,7 +40,7 @@ sidebar_main: true
 
 *<u>Submitted</u>*
 
-- Predicting potential social issues by learning a context entity network
+- An approach to predicting potential social issues by learning a context entity network: A predictive analysis on the evolution of social issues
 - Mitigating uncertainty in machine learning-based technology valuation: A calibration approach
 
 *<u>International</u>*
