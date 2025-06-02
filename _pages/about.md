@@ -41,7 +41,6 @@ sidebar_main: true
 *<u>Submitted</u>*
 
 - An approach to predicting potential social issues by learning a context entity network: A predictive analysis on the evolution of social issues
-- Mitigating uncertainty in machine learning-based technology valuation: A calibration approach
 
 *<u>International</u>*
 
@@ -87,15 +86,15 @@ sidebar_main: true
 - **2025.04~2027.03**, AI 트랜스포메이션 기반 의사소통장애 중재 플랫폼 개발 (Development of a non-face-to-face platform for life-cycle communication disorder rehabilitation), 중소기업기술정보진흥원, Researcher
 - **2024.05~2024.12**, 생애 전주기 비대면 의사소통장애 재활 플랫폼 개발 (Development of a non-face-to-face platform for life-cycle communication disorder rehabilitation), 중소기업기술정보진흥원, Researcher
 - **2024.04~2024.10**, 사회이슈 분석을 통한 소셜트윈 기반 잠재이슈 예측모형 연구 (Development of social twin based potential issue prediction model  through social issuue analysis), 한국과학기술정보연구원, Researcher
-- **2023.04~2024.09**, 사회문제 해결방안 패턴 추출모형 연구 (Development of a solution pattern extraction model for social problems), 한국과학기술정보연구원, Researcher
+- **2023.04~2023.09**, 사회문제 해결방안 패턴 추출모형 연구 (Development of a solution pattern extraction model for social problems), 한국과학기술정보연구원, Researcher
 - **2022.09~2025.05**, 음성발화데이터: 인지, 언어, 운동 기능의 건강관리부터 질병 예측까지 (Speech data predicting the health and diseases of cognitive, language and motor functions), 한국연구재단, Researcher
 - **2022.06~2025.02**, 다중계층데이터의 지능적 분석 및 결합을 통한 비즈니스 기회발굴을 위한 통합 자동화 모델 개발 (Development of an integrated model for business opportunity discovery through intelligent analysis and combination of multi-layer data), 한국연구재단, Researcher
 - **2022.04~2024.12**, 합금철 전기로 사업장의 NOx/미세먼지 동시저감 및 스마트 운전 기술 개발 (Simultaneous removal of NOx/fine dust and smart operation of electric furnace in ferroalloy plant), 한국환경산업기술원, Researcher
-- **2022.04~2022.10**, 시장 기반의 기술 혁신 아이템 산출 방안 연구, 주식회사 광개토연구소, Researcher
-- **2022.01~2022.05**, 사회이슈와 R&D Solution 연계 프로세스 개발 (Social issue and R&D solution linking process development), 한국과학기술정보연구원, Researcher
+- **2022.04~2022.10**, 사회이슈와 R&D Solution 연계 프로세스 개발 (Social issue and R&D solution linking process development), 한국과학기술정보연구원, Researcher
+- **2022.01~2022.05**, 시장 기반의 기술 혁신 아이템 산출 방안 연구, 주식회사 광개토연구소, Researcher
+- **2021.07~2021.11**, 기술키워드를 활용한 국가과학기술표준분류 신설분류명의 정부R&D규모 측정 방안 설계, 한국과학기술기획평가원, Researcher
 - **2021.03~2024.02**, 이종 데이터의 지능적 연결 및 기술 솔루션 생성모형을 통한 소셜 이슈 대응 비즈니스 발굴 체계 (Social issue-corresponding business discovery framework based on intelligent linkage of heterogeneous data sources and technical solution generation models), 한국연구재단, Researcher
 - **2021.01~2023.12**, 중개연구 기술seed 발굴 시스템 활용 및 확산모델 개발 (Utilization and diffusion model for system finding the technology seed with translation research), 과학기술일자리진흥원, Researcher
-- **2021.07~2021.11**, 기술키워드를 활용한 국가과학기술표준분류 신설분류명의 정부R&D규모 측정 방안 설계, 한국과학기술기획평가원, Researcher
 - **2018.06~2021.05**, 소셜-기술 데이터 애널리틱스 기반의 비즈니스 발굴-평가-운영 체계 (Social-technical data analytics-based business intelligence for business discovery, evaluation and operation), 한국연구재단, Researcher
 
 
