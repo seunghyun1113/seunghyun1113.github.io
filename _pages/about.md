@@ -66,10 +66,10 @@ sidebar_main: true
 
 #### Conference
 
-- **Lee, S.**, Lee, J., Lee, J. M., Chun, H. W., & Yoon, J. (2023). Developing an R&D solutions generation model using problem-solution patterns of patents. APIEMS, Kuala Lumpur
+- **Lee, S.**, Lee, J., Lee, J. M., Chun, H. W., & Yoon, J. (2023). Developing an R&D solutions generation model using problem-solution patterns of patents. APIEMS, Kuala Lumpur, Malaysia
 
-- Seol, Y., **Lee, S.**, Lee, J., Yoon, J., Kim, C. W., Byun, Y., Bak, H.S. (2023). An interpretable time series forecasting model for predicting Nox emission concentration in alloy steel electric furnace plants. APIEMS, Kuala Lumpur
-- **Lee, S.**, Lee, J., Lee, J. M., Chun, H. W., & Yoon, J. (2023). A network analysis-based approach for detecting issues in society with web-based data. R&D Management Conference, Seville
+- Seol, Y., **Lee, S.**, Lee, J., Yoon, J., Kim, C. W., Byun, Y., Bak, H.S. (2023). An interpretable time series forecasting model for predicting Nox emission concentration in alloy steel electric furnace plants. APIEMS, Kuala Lumpur, Malaysia
+- **Lee, S.**, Lee, J., Lee, J. M., Chun, H. W., & Yoon, J. (2023). A network analysis-based approach for detecting issues in society with web-based data. R&D Management Conference, Seville, Spain
 - **이승현**, 이지호, 이재민, 전홍우, & 윤장혁. (2023). 웹 기반 데이터를 활용한 네트워크 분석 기반의 사회이슈 탐지 접근법. 대한산업공학회 춘계학술대회, 신화월드, 제주
 - 설영진, **이승현**, 이지호, 변영철, 박현수, & 윤장혁. (2023). 해석가능한 딥러닝 기반 시계열 예측 모형을 활용한 합금철 전기로 사업장의 NOx 배출 농도 예측. 대한산업공학회 춘계학술대회, 신화월드, 제주
 - 홍준희, **이승현**, 이지호, & 윤장혁. (2023). 특허소송 예측 및 위험도 분석을 위한 머신러닝 기반의 접근법. 대한산업공학회 춘계학술대회, 신화월드, 제주
