@@ -83,7 +83,8 @@ sidebar_main: true
 
 #### Project
 
-- **2025.06~2025.11**, 소프트웨어 기술가치평가 방법론 고도화 (Advancement of Software Technology Valuation Methodology), 기술보증기금, Researcher
+- **2025.06~2025.11**, 소프트웨어 기술가치평가 방법론 고도화 (Advancement of software technology valuation methodology), 기술보증기금, Researcher
+- **2025.06~2028.05**, 음성발화, 시선, 인지, 보행의 멀티모달 행동데이터 구축 (Combining multimodal behavioral data of speech, eye movement, cognition, and gait), 한국연구재단, Researcher
 - **2025.04~2027.03**, AI 트랜스포메이션 기반 의사소통장애 중재 플랫폼 개발 (Development of a non-face-to-face platform for life-cycle communication disorder rehabilitation), 중소기업기술정보진흥원, Researcher
 - **2024.05~2024.12**, 생애 전주기 비대면 의사소통장애 재활 플랫폼 개발 (Development of a non-face-to-face platform for life-cycle communication disorder rehabilitation), 중소기업기술정보진흥원, Researcher
 - **2024.04~2024.10**, 사회이슈 분석을 통한 소셜트윈 기반 잠재이슈 예측모형 연구 (Development of social twin based potential issue prediction model  through social issuue analysis), 한국과학기술정보연구원, Researcher
