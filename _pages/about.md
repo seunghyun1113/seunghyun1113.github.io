@@ -116,5 +116,6 @@ sidebar_main: true
 
 #### Link
 
-- [Google Scholar](https://scholar.google.co.kr/citations?user=mOqXJDgAAAAJ&hl=ko)
 - [Business Intelligence and Data Analytics Laboratory](https://sites.google.com/view/kkbizintelligence/lab-home?authuser=0)
+- [Google Scholar](https://scholar.google.co.kr/citations?user=mOqXJDgAAAAJ&hl=ko)
+- [LinkedIn](www.linkedin.com/in/seunghyun-lee-59b581260)
