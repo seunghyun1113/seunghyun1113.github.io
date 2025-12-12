@@ -66,6 +66,8 @@ sidebar_main: true
 
 #### Conference
 
+- **Lee, S.**, Lee, J. M., Chun, H. W., & Yoon, J. (2025). Predicting potential social issues by context network analysis based on NER and link prediction. APIEMS, Hangzhou, China
+
 - **Lee, S.**, Lee, J., Lee, J. M., Chun, H. W., & Yoon, J. (2023). Developing an R&D solutions generation model using problem-solution patterns of patents. APIEMS, Kuala Lumpur, Malaysia
 
 - Seol, Y., **Lee, S.**, Lee, J., Yoon, J., Kim, C. W., Byun, Y., Bak, H.S. (2023). An interpretable time series forecasting model for predicting Nox emission concentration in alloy steel electric furnace plants. APIEMS, Kuala Lumpur, Malaysia
