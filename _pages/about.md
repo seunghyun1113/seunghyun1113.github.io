@@ -44,6 +44,7 @@ sidebar_main: true
 
 *<u>International</u>*
 
+- Seol, Y., Choi, J., **Lee, S.**, Son, C., & Yoon, J†. (2025). Dynamic technology impact analysis: A multi-task learning approach to patent citation prediction. Computers & Industrial Engineering, 111757. ([Link](https://www.sciencedirect.com/science/article/pii/S0360835225009039?casa_token=sxqISCBUTxYAAAAA:85rvidQYYegzW0q0B7k15WUG2b5w0TJw1NuAeqfRcVO4XOi-PiRVfNiMU-Q17Tc2r1R9e-gQVg))
 - **Lee, S.**, Lee, J., Lee, J. M., Chun, H. W., & Yoon, J†. (2025). Linking social media data and patents via Wikipedia for social problem-solving R&D. Computers & Industrial Engineering, 111039. ([Link](https://www.sciencedirect.com/science/article/pii/S0360835225001858))
 - Hong, J., Seol, Y., **Lee, S.**, Yoon, J.†, Lee, J., Park, K. S., & Ha, J. W. (2024). Prediction of Cognitive Impairment Using Sleep Lifelog Data and LSTM Model. Mathematics, 12(20), 3208. ([Link](https://www.mdpi.com/2227-7390/12/20/3208))
 - Park, S., Jeon, B., **Lee, S.**, & Yoon, J†. (2024). Multi-Label Emotion Recognition of Korean Speech Data Using Deep Fusion Models. Applied Sciences, 14(17), 7604. ([Link](https://www.mdpi.com/2076-3417/14/17/7604))
