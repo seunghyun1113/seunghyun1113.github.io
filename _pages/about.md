@@ -2,7 +2,7 @@
 title: "About Me"
 layout: single
 permalink: /about/
-author_profile: true
+author_profile: false
 sidebar_main: true
 
 ---
@@ -22,7 +22,7 @@ sidebar_main: true
 
 #### Education
 
-- Ph.D. student, Department of Industrial Engineering, Konkuk University (2021.03 ~ Current)
+- Ph.D. student, Department of Industrial Engineering, Konkuk University (2021.03 ~ 2026.02)
 - B.S. degree, Department of Industrial Engineering, Konkuk University (2015.03 ~ 2021.02)
 
 
